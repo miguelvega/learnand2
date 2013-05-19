@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string-array name="intents">
+        <item>Open Browser</item>
+        <item>Call</item>
+        <item>Dial</item>
+        <item>Show Map</item>
+        <item>Search On Map</item>
+        <item>Take Picture</item>
+        <item>Show contacts</item>
+        <item>Edit First Contact</item>
+    </string-array>
+
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 

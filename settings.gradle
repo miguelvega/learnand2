@@ -1,1 +1,1 @@
-include ':ExplicitIntents', ':ImplicitIntents'
+include ':ExplicitIntents', ':ImplicitIntents', ':NewIntentFilter'

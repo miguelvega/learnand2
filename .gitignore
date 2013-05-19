@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *~
 .gradle
 /build
@@ -34,3 +35,11 @@
 /incoming-distributions
 .idea
 *.sublime-*
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> c58356472f1389385cfad47408d00879fc923eae

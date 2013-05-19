@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.mvp.and.v2.intents.explicit">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="15"/>
+
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/explicit_intents" android:theme="@style/AppTheme">
+        <activity android:label="@string/explicit_intents" android:name="com.mvp.and.v2.intents.explicit.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="OtherActivity" android:name="com.mvp.and.v2.intents.explicit.OtherActivity">
+
+        </activity>
+    </application>
+
+</manifest>

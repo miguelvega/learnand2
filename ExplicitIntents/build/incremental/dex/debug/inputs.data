@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1368982008000 617 ecc99652573a88afa3ce97fb6ae19cdce2426513 /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R$id.class
+1368982008000 551 d095a6b73a2ce1afe0820ca36f6e9ad6f0d631a3 /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R$string.class
+1368981721000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/libs/android-support-v4.jar
+1368982008000 1796 d2809602fce13f50f4290deb5bfa294115388b9b /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/OtherActivity.class
+1368982008000 480 72427ec7aeebe1c042492cce7fc9a0f8ecf074de /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R$layout.class
+1368981739000 500 55a84997a21b2da55f05448ec99b6696d791fa64 /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R$dimen.class
+1368981739000 379 556b35599e41d25879268fa8ace63283f44b6f55 /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R$attr.class
+1368981739000 371 0872e19f58adc92da932c08f6d86f163977963b2 /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/BuildConfig.class
+1368982008000 470 b1e7b9e196ed10465d462a4f32833f9bf0a90a0a /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R$style.class
+1368982008000 807 18694c66bcc3eb060a2366b5b925e4816dd818c7 /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R.class
+1368982008000 2082 17a56541725dec6a563d675861de78e9523b740d /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/MainActivity.class
+1368982008000 427 f2f29b82c687f9974177da9cf1e78f6c5db9258e /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R$menu.class
+1368981739000 446 4965e99503b8b959a3eb7122871a657ee7b42309 /home/miguel/AndroidStudioProjects/LearnAndroidV2/ExplicitIntents/build/classes/debug/com/mvp/and/v2/intents/explicit/R$drawable.class
